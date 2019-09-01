@@ -1,0 +1,1 @@
+"D:\Programs\Epic Games\UE_4.22\Engine\Binaries\Win64\UE4Editor.exe" "D:\WorkingDirectory\GameDevelopment\SliverWorld\SliverWorld.uproject" /Game/Levels/Main -server -log
